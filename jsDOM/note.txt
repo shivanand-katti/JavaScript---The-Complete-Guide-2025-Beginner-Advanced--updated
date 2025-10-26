@@ -1,0 +1,152 @@
+** Traversing the DOM:
+
+- parentNode
+- childNodes
+- firstChild
+- lastChild
+- nextSibling
+- previousSibling
+- children
+- firstElementChild
+- lastElementChild
+- nextElementSibling
+- previousElementSibling
+- nodeValue
+- textContent
+- innerText
+- innerHTML
+- outerHTML
+- getElementById
+- getElementsByClassName
+- getElementsByTagName
+- querySelector
+- querySelectorAll
+
+** Creating and Inserting Elements:
+
+- createElement
+- createTextNode
+- appendChild
+- insertBefore
+- replaceChild
+- removeChild
+- setAttribute
+- getAttribute
+- removeAttribute
+- classList (add, remove, toggle, contains)
+- cloneNode
+- createDocumentFragment
+- insertAdjacentHTML
+- insertAdjacentElement
+- insertAdjacentText
+- append
+- prepend
+- before
+- after
+- replaceWith
+- remove
+- innerHTML
+- outerHTML
+- textContent
+- innerText
+- value (for input elements)
+- style (for inline styles)
+- dataset (for data-* attributes)
+- scrollIntoView
+- focus
+- blur
+- select (for input/textarea elements)
+- contentEditable
+- tabIndex
+- dir (for text direction)
+- title (for tooltip text)
+- lang (for language attribute)
+- hidden (to hide/show elements)
+- draggable (to enable/disable drag-and-drop)
+- spellcheck (to enable/disable spell checking)
+- offsetWidth
+- offsetHeight
+- offsetTop
+- offsetLeft
+
+** getBoundingClientRect
+
+- scrollWidth
+- scrollHeight
+- clientWidth
+- clientHeight
+- parentElement
+- closest
+- matches
+- contains
+- normalize
+- isConnected
+- adoptNode
+- importNode
+- getRootNode
+- compareDocumentPosition
+- hasChildNodes
+- getElementsByName
+
+** Event Handling:
+- addEventListener
+- removeEventListener
+- event.target
+- event.currentTarget
+- event.preventDefault
+- event.stopPropagation
+- event.stopImmediatePropagation
+- event.type
+- event.bubbles
+- event.cancelable
+- event.defaultPrevented
+- event.timeStamp
+- event.clientX
+- event.clientY
+- event.key
+- event.code
+- event.which
+- event.charCode
+- event.button
+- event.buttons
+- event.altKey
+- event.ctrlKey
+- event.shiftKey
+- event.metaKey 
+- event.relatedTarget
+- event.deltaX
+- event.deltaY
+- event.deltaZ
+- event.deltaMode
+- event.pointerId
+- event.pointerType
+- event.isPrimary
+- event.getModifierState
+- event.initEvent
+- dispatchEvent
+- Custom Events (CustomEvent)
+- event delegation
+- once option in addEventListener
+- passive option in addEventListener
+- capture option in addEventListener
+- bubbling phase
+- capturing phase
+- event.target vs event.currentTarget
+- event.defaultPrevented
+- event.composedPath
+- event.repeat (for keyboard events)
+- event.code (for keyboard events)
+- event.getModifierState (for keyboard events)
+- event.movementX (for mouse events)
+- event.movementY (for mouse events)
+- event.pointerType (for pointer events)
+- event.isPrimary (for pointer events)
+- event.clipboardData (for clipboard events)
+- event.dataTransfer (for drag-and-drop events)
+- event.state (for popstate events)
+- event.animationName (for animation events)
+- event.elapsedTime (for animation events)
+- event.pseudoElement (for CSS pseudo-element events)
+- event.inputType (for input events)
+- event.data (for input events)
+
